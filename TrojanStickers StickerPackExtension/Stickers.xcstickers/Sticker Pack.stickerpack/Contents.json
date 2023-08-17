@@ -1,9 +1,59 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "hectorBoom408.sticker"
+    },
+    {
+      "filename" : "HectorSurprised.sticker"
+    },
+    {
+      "filename" : "Untitled1060_20230503115648.sticker"
+    },
+    {
+      "filename" : "Sticker-4.sticker"
+    },
+    {
+      "filename" : "Sticker-9.sticker"
+    },
+    {
+      "filename" : "Sticker-10.sticker"
+    },
+    {
+      "filename" : "Sticker-11.sticker"
+    },
+    {
+      "filename" : "Sticker-12.sticker"
+    },
+    {
+      "filename" : "hectorRunHard408.sticker"
+    },
+    {
+      "filename" : "hectorHatsOff408.sticker"
+    },
+    {
+      "filename" : "trojanTouchdown-FINAL.sticker"
+    },
+    {
+      "filename" : "hectorFullBody flag-FINAL.sticker"
+    },
+    {
+      "filename" : "hectorFullBody RAVE W NECKLACE.sticker"
+    },
+    {
+      "filename" : "Untitled1060_20230503115639.sticker"
+    },
+    {
+      "filename" : "Trojans Win!.sticker"
+    },
+    {
+      "filename" : "Hector_Heart_sticker_final-removebg-preview invisible (1).sticker"
+    }
+  ]
 }
